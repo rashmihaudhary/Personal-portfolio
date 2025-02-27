@@ -73,4 +73,7 @@ Back-to-top button for quick navigation.
 
 OUTPUT :
 
-Language:- HTML,CSS,java script
+![Image](https://github.com/user-attachments/assets/7c90f4f0-fc84-43c3-8d3a-e92e92b14806)
+![Image](https://github.com/user-attachments/assets/2562336a-5a91-41b4-a554-ef268425b1f9)
+![Image](https://github.com/user-attachments/assets/7ee63445-2acb-4306-9ef2-aa8ffec29e65)
+![Image](https://github.com/user-attachments/assets/1c61f78e-21e8-4e45-b37b-448275e42727)
